@@ -1,9 +1,9 @@
 ## Hi! 👋 My name is Nikita
 
-### 🧑‍💻 Java Developer | [Urchin System](https://urchinsys.com/)
+### 🧑‍💻 Java Developer | [Urchin System](https://urchinsys.com/) | Student at [UTM](https://utm.md/)
 
 Wellcome!  
-I am a Java-developer! My love is working on interesting projects especially large enterprise applications, and enjoy developming as part of a strong team 
+I am a Java-developer! My love is working on interesting projects especially large enterprise applications, and enjoy developming as part of a strong team
 
 ---
 
@@ -14,13 +14,13 @@ I am a Java-developer! My love is working on interesting projects especially lar
 - 🗃️ SQL, PostgreSQL, NoSQL, Redis, MongoDB
 - 🌐 REST API, JSON
 - 🛠️ Maven / Gradle, Git, Docker, Portainer, Kubernatis
-- 📈 
+- 📈 I am constantly studying microservices architecture and web development
 
 ---
 
 ### 🚀 What I am duing now:
 
-- I improving my knowledje of **Spring** and **application arhitecture**
+- I am improving my knowledge of **Spring** and **application architecture**
 - I am learning C/C++ and studing computer sestem acrhitecture
 
 ---
