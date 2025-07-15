@@ -2,8 +2,8 @@
 
 ### 🧑‍💻 Java Developer | [Urchin System](https://urchinsys.com/) | Student at [UTM](https://utm.md/)
 
-Wellcome!  
-I am a Java-developer! My love is working on interesting projects especially large enterprise applications, and enjoy developming as part of a strong team
+Welcome!  
+I am a Java-developer! I love working on interesting projects, especially large enterprise applications, and I enjoy developming as part of a strong team
 
 ---
 
@@ -13,19 +13,19 @@ I am a Java-developer! My love is working on interesting projects especially lar
 - 🌱 **Spring Framework**: Spring Boot, Spring Security, Spring Data, Spring MVC, Spring Cloud
 - 🗃️ SQL, PostgreSQL, NoSQL, Redis, MongoDB
 - 🌐 REST API, JSON
-- 🛠️ Maven / Gradle, Git, Docker, Portainer, Kubernatis
+- 🛠️ Maven / Gradle, Git, Docker, Portainer, Kubernetes
 - 📈 I am constantly studying microservices architecture and web development
 
 ---
 
-### 🚀 What I am duing now:
+### 🚀 What I am doing now:
 
-- I am improving my knowledge of **Spring** and **application architecture**
-- I am learning C/C++ and studing computer sestem acrhitecture
+- Improving my knowledge of **Spring** and **application architecture**
+- Learning C/C++ and studying computer system architecture
 
 ---
 
-### 📫 For contact me:
+### 📫 Contacts:
 
 - Email: `matvei.n.workmail@gmail.com`
 - Telegram: [@nikitamatvei](https://t.me/nikitamatvei)
@@ -34,7 +34,7 @@ I am a Java-developer! My love is working on interesting projects especially lar
 
 ### 🎯 Fun fact:
 
-> Developming - modern art. 
+> Developing - modern art. 
 > I believe that good code is like good music: concise, logical, and harmonious
 
 ---
