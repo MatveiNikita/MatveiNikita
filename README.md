@@ -1,17 +1,40 @@
-## Hi there 👋
-### I'm Nikita - Java Developer
+## Hi! 👋 My name is Nikita
 
-<!--
-**MatveiNikita/MatveiNikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 Java Developer | [Urchin System](https://urchinsys.com/)
 
-Here are some ideas to get you started:
+Wellcome!  
+I am a Java-developer! My love is working on interesting projects especially large enterprise applications, and enjoy developming as part of a strong team 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My tool bag:
+
+- 💻 Java (Core, OOP, Collections, Streams, Multithreading)
+- 🌱 **Spring Framework**: Spring Boot, Spring Security, Spring Data, Spring MVC, Spring Cloud
+- 🗃️ SQL, PostgreSQL, NoSQL, Redis, MongoDB
+- 🌐 REST API, JSON
+- 🛠️ Maven / Gradle, Git, Docker, Portainer, Kubernatis
+- 📈 
+
+---
+
+### 🚀 What I am duing now:
+
+- I improving my knowledje of **Spring** and **application arhitecture**
+- I am learning C/C++ and studing computer sestem acrhitecture
+
+---
+
+### 📫 For contact me:
+
+- Email: `matvei.n.workmail@gmail.com`
+- Telegram: [@nikitamatvei](https://t.me/nikitamatvei)
+
+---
+
+### 🎯 Fun fact:
+
+> Developming - modern art
+> I believe that good code is like good music: concise, logical, and harmonious
+
+---
