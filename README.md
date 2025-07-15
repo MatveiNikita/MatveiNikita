@@ -34,7 +34,7 @@ I am a Java-developer! My love is working on interesting projects especially lar
 
 ### 🎯 Fun fact:
 
-> Developming - modern art
+> Developming - modern art. 
 > I believe that good code is like good music: concise, logical, and harmonious
 
 ---
