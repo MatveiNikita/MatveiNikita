@@ -1,5 +1,5 @@
 ## Hi there 👋
-###I'm Nikita - Java Developer
+### I'm Nikita - Java Developer
 
 <!--
 **MatveiNikita/MatveiNikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
