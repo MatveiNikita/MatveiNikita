@@ -3,7 +3,7 @@
 ### 🧑‍💻 Java Developer | [Urchin System](https://urchinsys.com/) | Student at [UTM](https://utm.md/)
 
 Welcome!  
-I am a Java-developer! I love working on interesting projects, especially large enterprise applications, and I enjoy developming as part of a strong team
+I am a Java-developer! I love working on interesting projects, especially large enterprise applications, and I enjoy developing as part of a strong team
 
 ---
 
