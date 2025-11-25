@@ -1,6 +1,6 @@
 ## Hi! 👋 My name is Nikita
 
-### 🧑‍💻 Java Developer | [Cedacri International](http://cedacrinternational.md/) | Student at [UTM](https://utm.md/)
+### 🧑‍💻 Java Developer | [Cedacri International](https://www.cedacrinternational.md/) | Student at [UTM](https://utm.md/)
 
 Welcome!  
 I am a Java-developer! I love working on interesting projects, especially large enterprise applications, and I enjoy developing as part of a strong team
